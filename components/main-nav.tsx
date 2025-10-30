@@ -14,7 +14,7 @@ return (
 
        <nav className="ml-auto flex text-center gap-4">
          <Link href="/movies">Movies</Link>
-         <Link href="/movies">Genre</Link>
+         <Link href="/genres">Genre</Link>
          <Link href="/movies">About</Link>
          <Link href="/movies">Admin</Link>
           <ModeToggle/>
